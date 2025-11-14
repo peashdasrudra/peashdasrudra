@@ -19,30 +19,43 @@
 
 ## 💫 About Me
 
-```javascript
-const rudra = {
-    location: "🌏 Khulna, Bangladesh",
-    currentFocus: ["Kubernetes", "Rust", "System Design"],
-    architecture: ["Microservices", "Event-Driven", "Serverless"],
-    techCommunities: {
-        mentor: "Open Source Programs",
-        speaker: "Tech Meetups & Conferences",
-        writer: "Technical Blogs & Tutorials"
-    },
-    challenge: "Building systems that scale to millions of users",
-    funFact: "I debug in production (just kidding... or am I? 😅)"
-};
-```
+<div align="center">
+
+### 🌐 Full-Stack Engineer | System Architect | Tech Enthusiast
+
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🎯 Currently
+### 👨‍💻 Who Am I?
 
-- 🔭 Building **[Next-Gen SaaS Platform]** with modern architecture
-- 🌱 Deep diving into **Kubernetes orchestration** & **Rust performance**
-- 👯 Open to collaborate on **developer tools** & **cloud-native apps**
-- 💡 Exploring **AI/ML integration** in web applications
-- ⚡ Writing about **system design** & **best practices**
+Hey there! I'm **Peash Das Rudra**, a passionate full-stack engineer based in **🌏 Khulna, Bangladesh**. I specialize in building scalable, high-performance systems that can handle millions of users. My journey in tech is driven by curiosity, innovation, and a love for solving complex problems.
+
+### 🎯 What I'm Focused On
+
+- **☁️ Cloud Architecture**: Designing microservices, event-driven, and serverless systems
+- **🚀 Current Tech Stack**: Mastering Kubernetes, Rust, and advanced system design patterns
+- **🤝 Community Involvement**: Mentoring in open source programs, speaking at tech conferences, and writing technical blogs
+- **💡 Challenge**: Building systems that scale seamlessly to millions of users
+
+### 🔭 Currently Working On
+
+- Building **Next-Gen SaaS Platforms** with modern architecture
+- Deep diving into **Kubernetes orchestration** & **Rust performance optimization**
+- Exploring **AI/ML integration** in real-world web applications
+- Writing about **system design patterns** & **software best practices**
+
+### 🤝 Let's Collaborate
+
+I'm always open to collaborating on:
+- 🛠️ **Developer Tools** that make engineers' lives easier
+- ☁️ **Cloud-Native Applications** built for scale
+- 🤖 **AI-Powered Projects** that solve real problems
+- 🌟 **Open Source Initiatives** that benefit the community
+
+### ⚡ Fun Fact
+
+I debug in production... just kidding... or am I? 😅
 
 <br clear="right"/>
 
