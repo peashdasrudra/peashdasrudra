@@ -19,42 +19,32 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```yaml
-name: Rudra Peash Das
-located_in: Khulna, Bangladesh
-current_focus:
-  - Kubernetes
-  - Rust
-  - System Design
-  
-education: ["Computer Science", "Software Engineering"]
-
-fields_of_interests:
-  - Distributed Systems
-  - Cloud Architecture
-  - DevOps & CI/CD
-  - Open Source
-  
-technical_background:
-  - Microservices Architecture
-  - Event-Driven Design
-  - Serverless Computing
-  - High-Performance APIs
-  
-currently_learning: ["Advanced Kubernetes", "Rust Performance", "System Design Patterns"]
-2025_goals: ["Scale systems to millions", "Contribute to major OSS", "Master cloud-native"]
-hobbies: ["Coding", "Tech Blogging", "Mentoring", "Coffee ☕"]
+```javascript
+const rudra = {
+    location: "🌏 Khulna, Bangladesh",
+    currentFocus: ["Kubernetes", "Rust", "System Design"],
+    architecture: ["Microservices", "Event-Driven", "Serverless"],
+    techCommunities: {
+        mentor: "Open Source Programs",
+        speaker: "Tech Meetups & Conferences",
+        writer: "Technical Blogs & Tutorials"
+    },
+    challenge: "Building systems that scale to millions of users",
+    funFact: "I debug in production (just kidding... or am I? 😅)"
+};
 ```
 
-**💼 Community Involvement:**
-- 🎤 Speaker at Tech Meetups & Conferences
-- ✍️ Technical Blog Writer & Tutorial Creator  
-- 🌟 Open Source Programs Mentor
-- 🎯 Building systems that scale to millions of users
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**⚡ Fun Fact:** *I debug in production (just kidding... or am I? 😅)*
+### 🎯 Currently
+
+- 🔭 Building **[Next-Gen SaaS Platform]** with modern architecture
+- 🌱 Deep diving into **Kubernetes orchestration** & **Rust performance**
+- 👯 Open to collaborate on **developer tools** & **cloud-native apps**
+- 💡 Exploring **AI/ML integration** in web applications
+- ⚡ Writing about **system design** & **best practices**
+
+<br clear="right"/>
 
 ---
 
