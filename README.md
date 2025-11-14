@@ -19,9 +19,9 @@
 
 ## 💫 About Me
 
-```typescript
+```javascript
 const rudra = {
-    location: "🌍 Khulna, Bangladesh",
+    location: "🌏 Khulna, Bangladesh",
     currentFocus: ["Kubernetes", "Rust", "System Design"],
     architecture: ["Microservices", "Event-Driven", "Serverless"],
     techCommunities: {
