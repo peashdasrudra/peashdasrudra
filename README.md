@@ -19,32 +19,41 @@
 
 ## 💫 About Me
 
-```javascript
-const rudra = {
-    location: "🌏 Khulna, Bangladesh",
-    currentFocus: ["Kubernetes", "Rust", "System Design"],
-    architecture: ["Microservices", "Event-Driven", "Serverless"],
-    techCommunities: {
-        mentor: "Open Source Programs",
-        speaker: "Tech Meetups & Conferences",
-        writer: "Technical Blogs & Tutorials"
-    },
-    challenge: "Building systems that scale to millions of users",
-    funFact: "I debug in production (just kidding... or am I? 😅)"
-};
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+### 🚀 Quick Facts
 
-### 🎯 Currently
+- 🌏 **Based in:** Khulna, Bangladesh
+- 💼 **Role:** Full-Stack Engineer & System Architect
+- 🎯 **Focus:** Kubernetes • Rust • System Design
+- 🏗️ **Architecture:** Microservices, Event-Driven, Serverless
+- 🎤 **Speaker** at Tech Meetups & Conferences
+- ✍️ **Writer** of Technical Blogs & Tutorials
+- 🌟 **Mentor** in Open Source Programs
 
-- 🔭 Building **[Next-Gen SaaS Platform]** with modern architecture
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Currently Working On
+
+- 🔭 Building **Next-Gen SaaS Platform** with modern architecture
 - 🌱 Deep diving into **Kubernetes orchestration** & **Rust performance**
 - 👯 Open to collaborate on **developer tools** & **cloud-native apps**
 - 💡 Exploring **AI/ML integration** in web applications
 - ⚡ Writing about **system design** & **best practices**
+- 🎪 **Challenge:** Building systems that scale to millions
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💭 Fun Fact: *"I debug in production (just kidding... or am I? 😅)"*
+
+</div>
 
 ---
 
