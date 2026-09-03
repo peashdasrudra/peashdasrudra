@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- 🔥 ULTRA-PREMIUM WAVING CYBERPUNK HEADER 🔥 -->
-<a href="https://github.com/peashdasrudra">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=300&section=header&text=PEASH%20DAS%20RUDRA&fontSize=85&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Senior%20AI%20%26%20Distributed%20Systems%20Architect%20%7C%20Founder%20%40%20AiXpertLabs&descSize=22&descAlignY=58" width="100%" alt="Peash Das Rudra Header Banner"/>
-</a>
+<!-- 🔥 ABSOLUTE TOP 1% CYBER-TEAL & HUBSPOT FLAME WAVING HEADER BANNER 🔥 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092124,50:124548,100:00F7FF&height=290&section=header&text=PEASH%20DAS%20RUDRA&fontSize=78&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Senior%20AI%20%26%20Distributed%20Systems%20Architect%20%7C%20Founder%20%40%20AiXpertLabs&descSize=22&descAlignY=58" width="100%" alt="Peash Das Rudra Executive Banner" />
 
-<!-- ⚡ ULTRA-DYNAMIC TYPING ANIMATION ⚡ -->
+<!-- ⚡ ULTRA DYNAMIC TERMINAL TYPING ANIMATION ⚡ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=500&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=105&lines=%E2%9A%A1+Architecting+Autonomous+AI+Systems+%26+Distributed+Event+Pipelines;%F0%9F%A7%A0+Deterministic+7-Vector+Math+Before+LLMs+%7C+Zero+Hallucinations;%F0%9F%9A%80+Creator+of+DealSense+%E2%80%94+HubSpot-Native+AI+RevOps+Engine;%F0%9F%94%A5+Sub-200ms+Redis+Streams+%7C+PostgreSQL+16+pgvector+%7C+Multi-Tenant+RLS;%F0%9F%8C%9F+Building+High-Ticket+Agency+Fleets+%26+Enterprise+Infrastructure)](https://github.com/peashdasrudra)
 
 <br>
@@ -13,29 +11,29 @@
 <!-- 💎 NEON GLOW BADGES & VERIFIED CHANNELS 💎 -->
 <p align="center">
   <a href="https://dealsense.peash.tech">
-    <img src="https://img.shields.io/badge/LIVE_PLATFORM-dealsense.peash.tech-FF5C35.svg?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=092124" alt="DealSense Live" height="36"/>
+    <img src="https://img.shields.io/badge/LIVE_PLATFORM-dealsense.peash.tech-FF5C35.svg?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=092124" alt="DealSense Live" height="35"/>
   </a>
   <a href="https://dealsense.peash.tech/agency">
-    <img src="https://img.shields.io/badge/AGENCY_FLEET-$300K_ARR_SCALE-124548.svg?style=for-the-badge&logo=hubspot&logoColor=white&labelColor=092124" alt="Agency Fleet" height="36"/>
+    <img src="https://img.shields.io/badge/AGENCY_FLEET-$300K_ARR_SCALE-124548.svg?style=for-the-badge&logo=hubspot&logoColor=white&labelColor=092124" alt="Agency Fleet" height="35"/>
   </a>
   <a href="https://linkedin.com/in/peashdasrudra">
-    <img src="https://img.shields.io/badge/LINKEDIN-peashdasrudra-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" height="36"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-peashdasrudra-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" height="35"/>
   </a>
   <a href="https://twitter.com/peashdasrudra">
-    <img src="https://img.shields.io/badge/TWITTER-%40peashdasrudra-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter" height="36"/>
+    <img src="https://img.shields.io/badge/TWITTER-%40peashdasrudra-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter" height="35"/>
   </a>
   <a href="mailto:peashdasrudra@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-peashdasrudra%40gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" height="36"/>
+    <img src="https://img.shields.io/badge/EMAIL-peashdasrudra%40gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" height="35"/>
   </a>
 </p>
 
-<!-- 📊 LIVE TELEMETRY COUNTERS 📊 -->
+<!-- 📊 ARCHITECTURAL TELEMETRY STATUS HUD 📊 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=peashdasrudra&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" height="30"/>
+  <img src="https://komarev.com/ghpvc/?username=peashdasrudra&color=00F7FF&style=for-the-badge&label=PROFILE+TELEMETRY" height="30"/>
   <img src="https://img.shields.io/github/followers/peashdasrudra?style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github&label=FOLLOWERS" height="30"/>
   <img src="https://img.shields.io/badge/FOCUS-AI_RevOps_%26_Distributed_Systems-00F7FF?style=for-the-badge&labelColor=0D1117&logo=target" height="30"/>
   <img src="https://img.shields.io/badge/TEST_COVERAGE-48%2F48_Passing_(100%25)-success?style=for-the-badge&labelColor=0D1117&logo=pytest" height="30"/>
-  <img src="https://img.shields.io/badge/P99_LATENCY-%3C200ms_Webhooks-FF5C35?style=for-the-badge&labelColor=0D1117&logo=speedtest" height="30"/>
+  <img src="https://img.shields.io/badge/P99_INGESTION-%3C180ms_Webhooks-FF5C35?style=for-the-badge&labelColor=0D1117&logo=speedtest" height="30"/>
 </p>
 
 <!-- 🔥 EPIC GLOWING LASER SEPARATOR GIF 🔥 -->
@@ -45,14 +43,14 @@
 
 ---
 
-<!-- 🚀 ABOUT ME SECTION WITH FLOATING HACKER GIF 🚀 -->
+<!-- 🚀 ABOUT THE ARCHITECT (SPLIT-HERO WITH ANIMATED DEVELOPER) 🚀 -->
 <div align="center">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="34"> **ABOUT THE ARCHITECT** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="34">
 
 </div>
 
-<img align="right" alt="Hacker Coding Animation" width="420" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img align="right" alt="Developer Coding in Dark Matrix" width="410" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ### 🚀 **Senior AI & Distributed Systems Architect | Founder @ AiXpertLabs**
 
@@ -140,22 +138,36 @@ Focus Areas 2025:
 
 ---
 
-<!-- 🏆 FLAGSHIP SHOWCASE: DEALSENSE 🏆 -->
+<!-- 🏆 FLAGSHIP SHOWCASE: DEALSENSE IN MACOS COMMAND CENTER WINDOW 🏆 -->
 <div align="center">
 
-## 🌟 **FEATURED FLAGSHIP SYSTEM: DEALSENSE**
+## 🌟 **FEATURED FLAGSHIP SYSTEM: [DEALSENSE](https://github.com/peashdasrudra/DealSense)**
 ### **Autonomous HubSpot-Native Revenue Intelligence & Deal Risk Engine**
 
 > *"Most AI CRM tools slap an LLM prompt on deal records and hallucinate win rates. DealSense is engineered differently: deterministic 7-vector mathematical scoring, sub-200ms streaming ingestion, and cryptographic multi-tenant isolation."*
 
 <br>
 
-<!-- Dynamic Live Streaming Telemetry Hero Banner -->
-<a href="https://www.loom.com/share/36fa0417cc9a47e1b08ef2091a304c5f">
-  <img src="https://raw.githubusercontent.com/peashdasrudra/DealSense/main/docs/assets/architecture.gif" alt="DealSense Real-Time Architecture & Ingestion Telemetry" width="100%" style="border-radius: 14px; border: 2px solid rgba(0, 247, 255, 0.4); box-shadow: 0 16px 48px rgba(0, 247, 255, 0.2);" />
-</a>
+<!-- Simulated macOS Dark Command Deck Window -->
+<table width="100%" style="border-collapse: collapse; background: #092124; border-radius: 14px; border: 1.5px solid rgba(0, 247, 255, 0.4); overflow: hidden; box-shadow: 0 20px 60px rgba(0, 247, 255, 0.2);">
+  <tr style="background: #0d1117;">
+    <td style="padding: 10px 16px; border-bottom: 1px solid rgba(255, 255, 255, 0.1);">
+      <span style="color: #ff5f56; font-size: 14px;">●</span>&nbsp;
+      <span style="color: #ffbd2e; font-size: 14px;">●</span>&nbsp;
+      <span style="color: #27c93f; font-size: 14px;">●</span>
+      &nbsp;&nbsp;&nbsp;<b><code style="color: #00F7FF;">dealsense-telemetry-engine — bash — 1920x894 — sub-200ms streaming</code></b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 0; background: #092124;">
+      <a href="https://www.loom.com/share/36fa0417cc9a47e1b08ef2091a304c5f">
+        <img src="https://raw.githubusercontent.com/peashdasrudra/DealSense/main/docs/assets/architecture.gif" width="100%" alt="DealSense Real-Time Architecture & Ingestion Telemetry" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
 [![Platform Walkthrough Video](https://img.shields.io/badge/Loom_Video-4_Min_Full_Walkthrough-FF5C35?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/0fa494403b584e51a988e5bf7474b82d)
 [![Architecture Deep Dive Video](https://img.shields.io/badge/Loom_Video-Working_Architecture_(34s)-124548?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/36fa0417cc9a47e1b08ef2091a304c5f)
@@ -220,7 +232,7 @@ Quality Assurance:
 
 ---
 
-<!-- 🏛️ DISTRIBUTED INGESTION ARCHITECTURE 🏛️ -->
+<!-- 🏛️ DISTRIBUTED INGESTION & DATAFLOW TOPOLOGY 🏛️ -->
 <div align="center">
 
 ## 🏛️ **DISTRIBUTED INGESTION & DATAFLOW TOPOLOGY**
@@ -247,7 +259,7 @@ graph TD
 
 ---
 
-<!-- 🛠️ TECHNICAL WEAPONRY & SKILLS 🛠️ -->
+<!-- 🛠️ TECHNICAL WEAPONRY CATEGORIZED 🛠️ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34"> **TECHNICAL WEAPONRY & SYSTEM CRAFT** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34">
@@ -301,7 +313,7 @@ graph TD
 
 ---
 
-<!-- 📊 SYSTEM DESIGN PHILOSOPHY MINDMAP 📊 -->
+<!-- 📊 SYSTEM DESIGN MINDMAP 📊 -->
 <div align="center">
 
 ## 📐 **SYSTEM DESIGN EXCELLENCE & PHILOSOPHY**
@@ -363,30 +375,33 @@ mindmap
 
 ---
 
-<!-- 🏆 GITHUB TROPHIES & ANALYTICS 🏆 -->
+<!-- 📈 100% VERIFIED GITHUB ANALYTICS (ZERO 402/503 OUTAGES) 📈 -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="34"> **GITHUB ANALYTICS & REPUTATION** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="34">
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="34"> **GITHUB TELEMETRY & CONTRIBUTION ANALYTICS** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="34">
 
 <br>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=peashdasrudra&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,PullRequest,Reviews,Stars,Followers,Repositories" width="100%"/>
+<!-- Streak Counter Card (100% Reliable Demolab) -->
+<img width="100%" src="https://streak-stats.demolab.com?user=peashdasrudra&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF5C35&currStreakLabel=00F7FF&stroke=00F7FF" alt="GitHub Streak Stats" />
 
 <br><br>
 
-<!-- Streak Counter & Stats Cards -->
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=peashdasrudra&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF5C35&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=00F7FF" />
+<!-- Summary Cards (Verified 200 OK TokyoNight Suite) -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peashdasrudra&theme=tokyonight" alt="GitHub Profile Details Card" />
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=peashdasrudra&custom_title=%F0%9F%93%8A%20Engineering%20Consistency%20-%20The%20Grind%20Never%20Stops&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&title_color=00F7FF" />
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=peashdasrudra&theme=tokyonight" alt="GitHub Stats Summary Card" />
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peashdasrudra&theme=tokyonight" alt="Repos Per Language Card" />
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peashdasrudra&theme=tokyonight" alt="Most Commit Language Card" />
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=peashdasrudra&theme=tokyonight" alt="Productive Time Card" />
 
 </div>
 
 ---
 
-<!-- 🎯 SKILLS PROFICIENCY MATRIX (ZERO BROKEN ICONS) 🎯 -->
+<!-- 🎯 SKILLS PROFICIENCY MATRIX (GUARANTEED RENDERING) 🎯 -->
 <div align="center">
 
 ## 🎯 **VERIFIED TECHNICAL PROFICIENCY MATRIX**
@@ -436,7 +451,7 @@ gantt
 <tr>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/?size=100&id=43805&format=png&color=00F7FF" width="70"/><br>
-<img src="https://img.shields.io/badge/Sub--200ms-00F7FF?style=for-the-badge&labelColor=0D1117" height="30" /><br>
+<img src="https://img.shields.io/badge/Sub--180ms-00F7FF?style=for-the-badge&labelColor=0D1117" height="30" /><br>
 <b>P99 Event Ingestion</b>
 </td>
 <td align="center" width="20%">
@@ -515,7 +530,7 @@ Daily Non-Negotiables:
 
 ---
 
-<!-- 🐍 CONTRIBUTION SNAKE EATING COMMITS 🐍 -->
+<!-- 🐍 THE GRIND: CONTRIBUTION SNAKE 🐍 -->
 <div align="center">
 
 ## 🐍 **THE GRIND: SNAKE EATING MY COMMIT HISTORY** 🐍
@@ -533,11 +548,9 @@ Daily Non-Negotiables:
 <!-- 💎 QUOTE & ARCHITECTURAL WISDOM 💎 -->
 <div align="center">
 
-## 💎 **ENGINEERING WISDOM & PRINCIPLES**
+## 💎 **ENGINEERING WISDOM & DOCTRINE**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Deterministic%20mathematics%20before%20generative%20AI.%20Measure%20first,%20optimize%20what%20matters.&author=Peash%20Das%20Rudra&border=true&bg_color=0D1117" width="700">
-
-<br><br>
+<br>
 
 <table width="100%">
 <tr>
@@ -604,13 +617,13 @@ Daily Non-Negotiables:
 
 <!-- ☕ BUY ME A COFFEE ☕ -->
 <a href="https://www.buymeacoffee.com/peashdasrudra">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=peashdasrudra&button_colour=00F7FF&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" height="52"/>
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=peashdasrudra&button_colour=00F7FF&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" height="50"/>
 </a>
 
 <br><br>
 
 <!-- 🌊 WAVING FOOTER CAPSULE 🌊 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=140&section=footer&fontSize=0" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092124,50:124548,100:00F7FF&height=140&section=footer" width="100%" alt="Footer Banner"/>
 
 ### ⚡ *"Talk is cheap. Show me the code."* — **Linus Torvalds**
 
