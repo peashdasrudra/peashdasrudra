@@ -1,57 +1,158 @@
 <div align="center">
 
-<!-- 🔥 EPIC ANIMATED CYBERPUNK HEADER 🔥 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=280&section=header&text=PEASH%20DAS%20RUDRA&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Distributed%20Systems%20Architect%20%7C%20Founder%20%40%20AiXpertLabs&descSize=22&descAlignY=58" width="100%">
+<!-- 🔥 ULTRA-PREMIUM WAVING CYBERPUNK HEADER 🔥 -->
+<a href="https://github.com/peashdasrudra">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=300&section=header&text=PEASH%20DAS%20RUDRA&fontSize=85&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Senior%20AI%20%26%20Distributed%20Systems%20Architect%20%7C%20Founder%20%40%20AiXpertLabs&descSize=22&descAlignY=58" width="100%" alt="Peash Das Rudra Header Banner"/>
+</a>
 
-<!-- ⚡ ULTRA DYNAMIC TYPING SVG ⚡ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2200&pause=600&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=100&lines=%E2%9A%A1+Architecting+Autonomous+AI+Agents+%26+Distributed+Event+Streams;%F0%9F%A7%A0+Deterministic+Scoring+Before+LLMs+%7C+Zero+Hallucinations;%F0%9F%9A%80+Creator+of+DealSense+%E2%80%94+HubSpot-Native+RevOps+Intelligence;%F0%9F%94%A5+Sub-200ms+Redis+Streams+%7C+PostgreSQL+16+pgvector+%7C+Multi-Tenant+RLS)](https://github.com/peashdasrudra)
+<!-- ⚡ ULTRA-DYNAMIC TYPING ANIMATION ⚡ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=500&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=105&lines=%E2%9A%A1+Architecting+Autonomous+AI+Systems+%26+Distributed+Event+Pipelines;%F0%9F%A7%A0+Deterministic+7-Vector+Math+Before+LLMs+%7C+Zero+Hallucinations;%F0%9F%9A%80+Creator+of+DealSense+%E2%80%94+HubSpot-Native+AI+RevOps+Engine;%F0%9F%94%A5+Sub-200ms+Redis+Streams+%7C+PostgreSQL+16+pgvector+%7C+Multi-Tenant+RLS;%F0%9F%8C%9F+Building+High-Ticket+Agency+Fleets+%26+Enterprise+Infrastructure)](https://github.com/peashdasrudra)
 
 <br>
 
-<!-- 💎 NEON GLOW BADGES & VERIFIED SOCIALS 💎 -->
+<!-- 💎 NEON GLOW BADGES & VERIFIED CHANNELS 💎 -->
 <p align="center">
   <a href="https://dealsense.peash.tech">
-    <img src="https://img.shields.io/badge/LIVE_PLATFORM-dealsense.peash.tech-FF5C35.svg?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=092124" alt="DealSense Platform" height="35"/>
+    <img src="https://img.shields.io/badge/LIVE_PLATFORM-dealsense.peash.tech-FF5C35.svg?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=092124" alt="DealSense Live" height="36"/>
   </a>
   <a href="https://dealsense.peash.tech/agency">
-    <img src="https://img.shields.io/badge/AGENCY_FLEET-$300K_ARR-124548.svg?style=for-the-badge&logo=hubspot&logoColor=white&labelColor=092124" alt="Agency Fleet" height="35"/>
+    <img src="https://img.shields.io/badge/AGENCY_FLEET-$300K_ARR_SCALE-124548.svg?style=for-the-badge&logo=hubspot&logoColor=white&labelColor=092124" alt="Agency Fleet" height="36"/>
   </a>
   <a href="https://linkedin.com/in/peashdasrudra">
-    <img src="https://img.shields.io/badge/LINKEDIN-Peash_Das_Rudra-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" height="35"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-peashdasrudra-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" height="36"/>
   </a>
   <a href="https://twitter.com/peashdasrudra">
-    <img src="https://img.shields.io/badge/TWITTER-%40peashdasrudra-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter" height="35"/>
+    <img src="https://img.shields.io/badge/TWITTER-%40peashdasrudra-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter" height="36"/>
   </a>
   <a href="mailto:peashdasrudra@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-peashdasrudra%40gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" height="35"/>
+    <img src="https://img.shields.io/badge/EMAIL-peashdasrudra%40gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" height="36"/>
   </a>
 </p>
 
 <!-- 📊 LIVE TELEMETRY COUNTERS 📊 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=peashdasrudra&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" height="32"/>
-  <img src="https://img.shields.io/github/followers/peashdasrudra?style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github&label=FOLLOWERS" height="32"/>
-  <img src="https://img.shields.io/badge/FOCUS-AI_RevOps_%26_Distributed_Systems-00F7FF?style=for-the-badge&labelColor=0D1117&logo=target" height="32"/>
-  <img src="https://img.shields.io/badge/TEST_COVERAGE-48%2F48_Passing_(100%25)-success?style=for-the-badge&labelColor=0D1117&logo=pytest" height="32"/>
+  <img src="https://komarev.com/ghpvc/?username=peashdasrudra&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" height="30"/>
+  <img src="https://img.shields.io/github/followers/peashdasrudra?style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github&label=FOLLOWERS" height="30"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI_RevOps_%26_Distributed_Systems-00F7FF?style=for-the-badge&labelColor=0D1117&logo=target" height="30"/>
+  <img src="https://img.shields.io/badge/TEST_COVERAGE-48%2F48_Passing_(100%25)-success?style=for-the-badge&labelColor=0D1117&logo=pytest" height="30"/>
+  <img src="https://img.shields.io/badge/P99_LATENCY-%3C200ms_Webhooks-FF5C35?style=for-the-badge&labelColor=0D1117&logo=speedtest" height="30"/>
 </p>
 
-<!-- 🔥 EPIC NEON SEPARATOR 🔥 -->
+<!-- 🔥 EPIC GLOWING LASER SEPARATOR GIF 🔥 -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 </div>
 
 ---
 
+<!-- 🚀 ABOUT ME SECTION WITH FLOATING HACKER GIF 🚀 -->
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="34"> **ABOUT THE ARCHITECT** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="34">
+
+</div>
+
+<img align="right" alt="Hacker Coding Animation" width="420" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+
+### 🚀 **Senior AI & Distributed Systems Architect | Founder @ AiXpertLabs**
+
+```typescript
+const leadArchitect = {
+  name: "Peash Das Rudra",
+  title: "AI & Distributed Systems Architect | Founder @ AiXpertLabs",
+  location: "Khulna, Bangladesh 🌍",
+  doctrine: "Deterministic Mathematics Before Generative AI ⚡",
+  
+  coreEngineeringDisciplines: [
+    "High-Throughput CRM Telemetry & Event Ingestion (Sub-200ms)",
+    "HubSpot Native App & React Canvas Sidebar Cards",
+    "Multi-Tenant PostgreSQL 16 Row-Level Security (RLS)",
+    "Distributed Redis Streaming & Celery Backpressure Queues",
+    "Deterministic 7-Vector Deal Risk Scoring Algorithms",
+    "LangGraph Autonomous Multi-Agent Workflows & Hybrid RAG"
+  ],
+  
+  dailyExecutionLoop: () => {
+    while (inBusiness) {
+      ingest("⚡ Webhook Event Bursts");
+      verifySignature("🔒 HMAC-SHA256");
+      calculate("🧮 Deterministic Math");
+      isolateTenant("🛡️ PostgreSQL RLS");
+      render("🎨 React 18 Canvas Deck");
+      deploy("🚀 Production");
+    }
+  },
+  
+  superpower: "Writing verifiable, test-backed code (48/48 passing) that handles production load without 3 AM panics ☕"
+};
+```
+
+### 💎 **What Drives My Craft**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 **PASSION & SYSTEM CRAFT**
+```yaml
+Core Competencies:
+  - ⚡ Sub-200ms Asynchronous Ingestion
+  - 🤖 Autonomous Agentic Workflow Systems
+  - 🧩 Native HubSpot Canvas CRM Extensions
+  - 🛡️ Strict Database Row-Level Security
+  - 📊 Monte Carlo Risk Simulations
+
+Engineering Principles:
+  - 🧮 Math Before LLMs (Zero Hallucinations)
+  - ✨ Clean Monorepo Architecture
+  - 🧪 100% Automated Test Passing (48/48)
+  - 🔒 Controlled Autonomy with Approval Gates
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔥 **ACTIVE DEPLOYMENTS & INNOVATION**
+```yaml
+Flagship Systems:
+  - 🎯 DealSense (dealsense.peash.tech)
+  - 🏢 Agency Fleet ($300K ARR Arbitrage Hub)
+  - 🧩 Embedded HubSpot CRM Canvas Extension
+  - 📑 1-Click Executive PDF Briefing Exporter
+
+Focus Areas 2025:
+  - 🧠 Hybrid Sparse-Dense Vector Retrieval (RRF)
+  - ⚡ Redis Streams 7.x Cluster Consumer Sharding
+  - 🛡️ Enterprise White-Label Multi-Tenant Fleets
+  - 📈 Predictive Revenue Telemetry & Remediation
+```
+
+</td>
+</tr>
+</table>
+
+<br clear="right"/>
+
+<!-- 🔥 EPIC GLOWING LASER SEPARATOR GIF 🔥 -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
+
+---
+
 <!-- 🏆 FLAGSHIP SHOWCASE: DEALSENSE 🏆 -->
-## 🌟 Flagship Engineering System: [DealSense](https://github.com/peashdasrudra/DealSense)
+<div align="center">
+
+## 🌟 **FEATURED FLAGSHIP SYSTEM: DEALSENSE**
 ### **Autonomous HubSpot-Native Revenue Intelligence & Deal Risk Engine**
 
 > *"Most AI CRM tools slap an LLM prompt on deal records and hallucinate win rates. DealSense is engineered differently: deterministic 7-vector mathematical scoring, sub-200ms streaming ingestion, and cryptographic multi-tenant isolation."*
 
-<div align="center">
+<br>
 
+<!-- Dynamic Live Streaming Telemetry Hero Banner -->
 <a href="https://www.loom.com/share/36fa0417cc9a47e1b08ef2091a304c5f">
-  <img src="https://raw.githubusercontent.com/peashdasrudra/DealSense/main/docs/assets/architecture.gif" alt="DealSense Real-Time Architecture & Ingestion Telemetry" width="100%" style="border-radius: 14px; border: 1.5px solid rgba(0, 247, 255, 0.4); box-shadow: 0 16px 48px rgba(0, 247, 255, 0.18);" />
+  <img src="https://raw.githubusercontent.com/peashdasrudra/DealSense/main/docs/assets/architecture.gif" alt="DealSense Real-Time Architecture & Ingestion Telemetry" width="100%" style="border-radius: 14px; border: 2px solid rgba(0, 247, 255, 0.4); box-shadow: 0 16px 48px rgba(0, 247, 255, 0.2);" />
 </a>
 
 <br><br>
@@ -75,11 +176,12 @@
 - **Deterministic 7-Vector Math**: Stage velocity, engagement decay, economic buyer silence, and date slip frequency computed mathematically before generative LLM nodes receive context.
 - **Enterprise Multi-Tenancy**: PostgreSQL 16 + pgvector partitioned with hardware-enforced **Row-Level Security (RLS)** and AES-256-GCM token encryption.
 - **Native HubSpot Canvas UI**: Embedded directly inside HubSpot CRM deal records with 2-way writeback and 1-click human approval gates.
+- **Monte Carlo Revenue Forecaster**: Runs 10,000 statistical iterations comparing commit vs best case vs AI reality.
 
 </td>
 <td width="48%" valign="top">
 
-#### 💼 **Core Tech Stack**
+#### 💼 **The Production Tech Stack**
 ```yaml
 Backend & Streaming:
   - Python 3.14+ | FastAPI (Async REST & SSE)
@@ -93,87 +195,32 @@ Frontend & Extensions:
 AI & Reasoning:
   - LangGraph 7-Node Autonomous Dossier Graph
   - Hybrid RRF (Dense Vector + BM25 Sparse Search)
+Quality Assurance:
+  - 48/48 Passing Pytest Suites (100% Verified)
 ```
 
 </td>
 </tr>
 </table>
 
----
+<!-- 💫 ANIMATED FLOATING TECH ICONS 💫 -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="90">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="90">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90">
+</p>
 
+<!-- 🔥 EPIC GLOWING LASER SEPARATOR GIF 🔥 -->
 <div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="34"> **ABOUT THE ARCHITECT** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="34">
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
 
-```typescript
-const leadArchitect = {
-  name: "Peash Das Rudra",
-  role: "AI & Distributed Systems Architect | Founder @ AiXpertLabs",
-  location: "Khulna, Bangladesh 🌍",
-  engineeringDoctrine: "Deterministic Mathematics Before Generative AI ⚡",
-  
-  specializations: [
-    "High-Throughput CRM Telemetry & Event Streaming",
-    "HubSpot Native Apps & React Canvas Extensions",
-    "Multi-Tenant PostgreSQL Row-Level Security (RLS)",
-    "Distributed Redis Streams & Celery Worker Hubs",
-    "Hybrid Vector Search (HNSW + Reciprocal Rank Fusion)"
-  ],
-  
-  commercialOfferings: {
-    pilotRiskAudit: "$99 — 48h Full CRM Pipeline Risk Audit & Dossier",
-    bespokeDeployment: "$1,500 — Full FastAPI/Redis/PostgreSQL Source Code Handover",
-    agencyFleetLicense: "$3,500 — White-Label Unlimited Multi-Tenant Agency Fleet"
-  },
-  
-  superpower: "Writing verifiable, test-backed code (48/48 passing) that handles production load without 3 AM panics ☕"
-};
-```
-
 ---
 
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34"> **TECHNICAL WEAPONRY & EXPERTISE** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34">
-
-</div>
-
-### 🧠 **AI ENGINEERING & AGENTIC WORKFLOWS**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,postgres&theme=dark" height="50"/>
-</p>
-<p align="center">
-  <b>LangGraph Multi-Agent Workflows</b> • <b>Deterministic Scoring Engines</b> • <b>pgvector HNSW Embedding Search</b> • <b>RRF Hybrid Search</b> • <b>MEDDICC Fact Extraction</b> • <b>LLM Guardrails & Structured Output</b>
-</p>
-
-### ⚙️ **DISTRIBUTED SYSTEMS & BACKEND INGESTION**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,postgres,docker,linux,nginx&theme=dark" height="50"/>
-</p>
-<p align="center">
-  <b>Sub-200ms Webhook Gateways</b> • <b>Redis Streams & Consumer Groups</b> • <b>Celery Async Pipelines</b> • <b>HMAC-SHA256 Signature Auth</b> • <b>PostgreSQL Row-Level Security (RLS)</b> • <b>AES-256-GCM Token Encryption</b>
-</p>
-
-### 🎨 **FRONTEND & HUBSPOT CANVAS ARCHITECTURE**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,vite,nodejs&theme=dark" height="50"/>
-</p>
-<p align="center">
-  <b>HubSpot Embedded Canvas CRM Cards</b> • <b>React 18 & TypeScript 5.5</b> • <b>Interactive Video/Telemetry Flow UI</b> • <b>Multi-Tenant Portal Switching</b> • <b>Zero-Overflow Mobile First Layouts</b> • <b>Framer Motion Glassmorphism</b>
-</p>
-
-### ☁️ **DEVOPS & PRODUCTION CLOUD INFRASTRUCTURE**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,aws,gcp,cloudflare&theme=dark" height="50"/>
-</p>
-<p align="center">
-  <b>Docker & Multi-Stage Containers</b> • <b>GitHub Actions CI/CD (100% Passing Test Suites)</b> • <b>PostgreSQL 16 pgvector Migrations</b> • <b>Automated Pytest Coverage</b> • <b>Zero-Downtime Production Releases</b>
-</p>
-
----
-
+<!-- 🏛️ DISTRIBUTED INGESTION ARCHITECTURE 🏛️ -->
 <div align="center">
 
 ## 🏛️ **DISTRIBUTED INGESTION & DATAFLOW TOPOLOGY**
@@ -181,13 +228,13 @@ const leadArchitect = {
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00F7FF','primaryTextColor':'#fff','primaryBorderColor':'#00F7FF','lineColor':'#00F7FF','secondaryColor':'#1a1a1a','tertiaryColor':'#0D1117'}}}%%
 graph TD
-    A[HubSpot CRM Events] -->|Sub-200ms Webhook| B(FastAPI Gateway)
-    B -->|HMAC-SHA256 Verification| C{Redis Streams Queue}
-    C -->|Consumer Batching| D[Celery Worker Cluster]
-    D -->|Step 1: Math| E[7-Vector Deterministic Scoring Engine]
-    D -->|Step 2: Vector Search| F[PostgreSQL 16 + pgvector RLS]
+    A[HubSpot CRM Events] -->|Sub-200ms Webhook| B(FastAPI Async Gateway)
+    B -->|HMAC-SHA256 Signature Auth| C{Redis Streams Queue}
+    C -->|Backpressure Batch Pull| D[Celery Worker Cluster]
+    D -->|Step 1: Deterministic Math| E[7-Vector Scoring Engine]
+    D -->|Step 2: Dense & Sparse Search| F[PostgreSQL 16 + pgvector RLS]
     D -->|Step 3: Dossier Assembly| G[LangGraph Autonomous Agent]
-    G -->|Controlled Autonomy Gate| H[HubSpot 2-Way Writeback & Canvas Card]
+    G -->|Human Approval Gate| H[HubSpot 2-Way Writeback & Canvas Card]
     style A fill:#FF5C35,stroke:#fff,stroke-width:2px,color:#fff
     style B fill:#124548,stroke:#00F7FF,stroke-width:2px,color:#fff
     style C fill:#DC382D,stroke:#fff,stroke-width:2px,color:#fff
@@ -200,48 +247,297 @@ graph TD
 
 ---
 
+<!-- 🛠️ TECHNICAL WEAPONRY & SKILLS 🛠️ -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34"> **GITHUB TELEMETRY & STATS** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34"> **TECHNICAL WEAPONRY & SYSTEM CRAFT** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34">
+
+</div>
+
+### 🧠 **AI ENGINEERING & AUTONOMOUS AGENTIC WORKFLOWS**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,postgres&theme=dark" height="52"/>
+</p>
+<p align="center">
+  <b>LangGraph Multi-Agent Systems</b> • <b>Deterministic Scoring Engines</b> • <b>pgvector HNSW Vector Search</b> • <b>Reciprocal Rank Fusion (RRF)</b> • <b>MEDDICC Fact Extraction</b> • <b>Structured JSON Outputs & Strict Pydantic Guardrails</b>
+</p>
+
+### ⚙️ **DISTRIBUTED SYSTEMS & STREAMING INGESTION**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,postgres,docker,linux,nginx&theme=dark" height="52"/>
+</p>
+<p align="center">
+  <b>Sub-200ms Webhook Gateways</b> • <b>Redis Streams & Consumer Groups</b> • <b>Celery Async Pipelines</b> • <b>HMAC-SHA256 Auth</b> • <b>PostgreSQL Row-Level Security (RLS)</b> • <b>AES-256-GCM Token Encryption</b>
+</p>
+
+### 🎨 **FRONTEND & HUBSPOT CANVAS CRM CARDS**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,vite,nodejs&theme=dark" height="52"/>
+</p>
+<p align="center">
+  <b>HubSpot Embedded Canvas Extensions</b> • <b>React 18 & TypeScript 5.5</b> • <b>Interactive Telemetry Flow UI</b> • <b>Multi-Tenant Fleet Switching</b> • <b>Zero-Overflow Mobile Viewport Engine</b> • <b>Framer Motion Glassmorphism</b>
+</p>
+
+### 🗄️ **DATABASE & HIGH-CONCURRENCY STORAGE**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql&theme=dark" height="52"/>
+</p>
+<p align="center">
+  <b>PostgreSQL 16 + pgvector</b> • <b>Distributed Redis Caching</b> • <b>Connection Pooling (asyncpg / SQLAlchemy 2.0)</b> • <b>Alembic Schema Migrations</b> • <b>MongoDB & Relational Databases</b>
+</p>
+
+### ☁️ **DEVOPS & CLOUD PRODUCTION INFRASTRUCTURE**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,aws,gcp,cloudflare&theme=dark" height="52"/>
+</p>
+<p align="center">
+  <b>Multi-Stage Docker Builds</b> • <b>GitHub Actions CI/CD (100% Passing)</b> • <b>AWS ECS / EC2 Deployment</b> • <b>Cloudflare Edge Routing</b> • <b>Automated Pytest Coverage (48/48 Suites)</b>
+</p>
+
+<!-- 🔥 EPIC GLOWING LASER SEPARATOR GIF 🔥 -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
+
+---
+
+<!-- 📊 SYSTEM DESIGN PHILOSOPHY MINDMAP 📊 -->
+<div align="center">
+
+## 📐 **SYSTEM DESIGN EXCELLENCE & PHILOSOPHY**
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00F7FF','primaryTextColor':'#fff','primaryBorderColor':'#00F7FF','lineColor':'#00F7FF','secondaryColor':'#1a1a1a','tertiaryColor':'#0D1117','background':'#0D1117','mainBkg':'#0D1117','clusterBkg':'#1a1a1a'}}}%%
+mindmap
+  root((System Design Excellence))
+    High Availability
+      Sub-200ms Webhook Ingestion
+      Redis Streams Backpressure Buffering
+      Celery Distributed Worker Sharding
+      Zero-Downtime Migration Protocols
+    Deterministic Reliability
+      Mathematical Decay Functions
+      Reproducible 0-100 Risk Scoring
+      Zero Unconstrained LLM Guesses
+      100% Automated Pytest Verification
+    Cryptographic Multi-Tenancy
+      PostgreSQL 16 Row-Level Security
+      Hardware-Enforced Tenant Scoping
+      AES-256-GCM OAuth Token Vault
+      HMAC-SHA256 Webhook Verification
+    Controlled AI Autonomy
+      Human Approval Gates Before CRM Writeback
+      Structured JSON Pydantic Guardrails
+      LangGraph 7-Node State Graph
+      Executive QBR Briefing Assembly
+```
+
+</div>
+
+<details>
+<summary><b>🏗️ Click to Expand: Core Architectural Patterns & Production Standards</b></summary>
 
 <br>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=peashdasrudra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" />
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peashdasrudra&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&card_width=320" />
+### 💎 **1. Deterministic Mathematics Before Generative AI**
+- Stage velocity decay, engagement half-life, economic buyer silence, and close date slip penalties are evaluated mathematically.
+- Generative models are reserved exclusively for synthesizing evidence, drafting human-in-the-loop remediation actions, and formatting executive summaries.
+
+### ⚡ **2. Asynchronous Streaming Queues (Sub-200ms SLA)**
+- FastAPI webhooks perform instant signature validation in <5ms and append events to an immutable Redis Stream.
+- Decoupled worker processes handle database writes, scoring recalculations, and CRM updates asynchronously without timing out the webhook caller.
+
+### 🛡️ **3. Cryptographic Row-Level Security (RLS)**
+- Every database transaction executes with `SET LOCAL app.current_tenant_id = :tenant_id`.
+- Tenant boundary enforcement occurs at the PostgreSQL engine kernel level, eliminating data contamination risks across multi-tenant agency fleets.
+
+### 🚦 **4. Human-In-The-Loop Approval Gates**
+- 4-tier action execution model: Low-risk properties write back autonomously; high-risk actions (deal stage updates, task assignments, customer emails) require explicit human approval via the web dashboard or Slack.
+
+</details>
+
+<!-- 🔥 EPIC GLOWING LASER SEPARATOR GIF 🔥 -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
+
+---
+
+<!-- 🏆 GITHUB TROPHIES & ANALYTICS 🏆 -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="34"> **GITHUB ANALYTICS & REPUTATION** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="34">
 
 <br>
 
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=peashdasrudra&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,PullRequest,Reviews,Stars,Followers,Repositories" width="100%"/>
+
+<br><br>
+
+<!-- Streak Counter & Stats Cards -->
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=peashdasrudra&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF5C35&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=00F7FF" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=peashdasrudra&custom_title=📊%20Contribution%20Graph%20-%20Engineering%20Consistency&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&title_color=00F7FF" />
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=peashdasrudra&custom_title=%F0%9F%93%8A%20Engineering%20Consistency%20-%20The%20Grind%20Never%20Stops&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&title_color=00F7FF" />
 
 </div>
 
 ---
 
+<!-- 🎯 SKILLS PROFICIENCY MATRIX (ZERO BROKEN ICONS) 🎯 -->
 <div align="center">
 
-## 🎯 **SKILLS PROFICIENCY MATRIX**
+## 🎯 **VERIFIED TECHNICAL PROFICIENCY MATRIX**
 
 </div>
 
+| 🎯 **Engineering Discipline** | **Core Technologies & Frameworks** | **Mastery Index** | **Production Verification** |
+|:---|:---|:---:|:---:|
+| **Autonomous AI & Agentic Systems** | LangGraph • pgvector • RRF Hybrid Search • LLM Guardrails | `██████████████████░░ 92%` | ![Verified](https://img.shields.io/badge/Status-Verified-00F7FF?style=flat-square) |
+| **Distributed Systems & Streaming** | Python 3.14 • FastAPI • Celery • Redis Streams 7.x | `███████████████████░ 95%` | ![Verified](https://img.shields.io/badge/Status-Verified-00F7FF?style=flat-square) |
+| **Multi-Tenant Database Architecture** | PostgreSQL 16 • Row-Level Security (RLS) • HNSW Indexes | `██████████████████░░ 90%` | ![Verified](https://img.shields.io/badge/Status-Verified-00F7FF?style=flat-square) |
+| **Frontend & CRM Canvas UI** | React 18 • TypeScript 5.5 • HubSpot Canvas • Framer Motion | `█████████████████░░░ 88%` | ![Verified](https://img.shields.io/badge/Status-Verified-00F7FF?style=flat-square) |
+| **Cloud Infrastructure & DevOps** | Docker • GitHub Actions CI/CD • AWS • Cloudflare • Pytest | `████████████████░░░░ 85%` | ![Verified](https://img.shields.io/badge/Status-Verified-00F7FF?style=flat-square) |
+
+<!-- 🔥 EPIC GLOWING LASER SEPARATOR GIF 🔥 -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
+
+---
+
+<!-- 💥 IMPACT METRICS & GANTT MILESTONES 💥 -->
 <div align="center">
 
-| 🎯 **Engineering Domain** | **Technologies & Architecture** | **Mastery Index** |
-|:-------------------:|:------------------------|:---------------------:|
-| **AI Systems & LLMs** | LangGraph • pgvector • RRF Hybrid Search • Guardrails | ![92%](https://progress-bar.dev/92/?width=380&color=00F7FF&suffix=%20%E2%9A%A1%20Lead) |
-| **Distributed Backend** | Python 3.14 • FastAPI • Celery • Redis Streams | ![94%](https://progress-bar.dev/94/?width=380&color=00F7FF&suffix=%20%F0%9F%9A%80%20Architect) |
-| **Database & Multi-Tenancy**| PostgreSQL 16 • Row-Level Security (RLS) • HNSW | ![90%](https://progress-bar.dev/90/?width=380&color=00F7FF&suffix=%20%F0%9F%97%84%EF%B8%8F%20Expert) |
-| **Frontend & CRM Cards** | React 18 • TypeScript 5.5 • HubSpot Canvas • Vite | ![88%](https://progress-bar.dev/88/?width=380&color=00F7FF&suffix=%20%F0%9F%8E%A8%20Advanced) |
-| **DevOps & Infrastructure** | Docker • GitHub Actions CI/CD • Linux • Nginx | ![85%](https://progress-bar.dev/85/?width=380&color=00F7FF&suffix=%20%E2%98%81%EF%B8%8F%20Advanced) |
+## 💥 **PRODUCTION IMPACT & CAREER MILESTONES**
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00F7FF','primaryTextColor':'#fff','primaryBorderColor':'#00F7FF','lineColor':'#00F7FF'}}}%%
+gantt
+    title 🚀 Systems Built & Architectural Milestones
+    dateFormat YYYY-MM
+    section Systems Architecture
+    Founder & Chief Architect @ AiXpertLabs       :active, 2024-01, 2026-12
+    Distributed Event Systems & RevOps Lead       :done, 2022-06, 2024-01
+    Full-Stack & Cloud Solutions Engineer        :done, 2020-01, 2022-06
+    
+    section Major System Shipments
+    Shipped DealSense HubSpot AI RevOps Engine    :milestone, m1, 2026-03, 0d
+    Scaled Sub-200ms Webhook Ingestion Pipeline   :milestone, m2, 2025-08, 0d
+    Deployed Multi-Tenant Agency Fleet Cockpits   :milestone, m3, 2024-11, 0d
+    Built 48/48 Passing Automated Test Ecosystem  :milestone, m4, 2024-04, 0d
+```
+
+### 🏆 **SYSTEM OPERATING METRICS**
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/?size=100&id=43805&format=png&color=00F7FF" width="70"/><br>
+<img src="https://img.shields.io/badge/Sub--200ms-00F7FF?style=for-the-badge&labelColor=0D1117" height="30" /><br>
+<b>P99 Event Ingestion</b>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=00F7FF" width="70"/><br>
+<img src="https://img.shields.io/badge/48%2F48-00F7FF?style=for-the-badge&labelColor=0D1117" height="30" /><br>
+<b>Passing Test Suites</b>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/?size=100&id=62856&format=png&color=00F7FF" width="70"/><br>
+<img src="https://img.shields.io/badge/100%25-00F7FF?style=for-the-badge&labelColor=0D1117" height="30" /><br>
+<b>RLS Tenant Isolation</b>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/?size=100&id=65230&format=png&color=00F7FF" width="70"/><br>
+<img src="https://img.shields.io/badge/%24300K_ARR-00F7FF?style=for-the-badge&labelColor=0D1117" height="30" /><br>
+<b>Agency Fleet Scale</b>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/?size=100&id=30888&format=png&color=00F7FF" width="70"/><br>
+<img src="https://img.shields.io/badge/Zero-00F7FF?style=for-the-badge&labelColor=0D1117" height="30" /><br>
+<b>LLM Hallucinations</b>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+<!-- 🎨 DEVELOPER LIFESTYLE & WORK HABITS 🎨 -->
 <div align="center">
 
-## 💎 **CORE ARCHITECTURAL DOCTRINE**
+## 🎨 **DEVELOPER WORKSTATION & CODE HABITS**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 **ENGINEERING ENVIRONMENT**
+```yaml
+Workstation Setup:
+  - 🖥️ Dual 4K Monitors + Ergonomic Arm Mounts
+  - ⌨️ Custom Mechanical Keyboard (Gateron Oil Kings)
+  - 🎧 Sony WH-1000XM5 Noise Canceling (Deep Flow)
+  - 🐧 Arch Linux & WSL2 Ubuntu Terminal Mastery
+  - ⚡ Neovim + VS Code with JetBrains Mono Nerd Font
+
+Peak Flow State:
+  - 🌙 Night Owl: 11 PM – 3 AM Deep Architecture
+  - ☕ Single-Origin Ethiopian Aeropress Coffee
+  - 🎵 Synthwave & Lo-Fi Deep Focus Beats
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 **SYSTEMS READING & INTERESTS**
+```yaml
+Books Shaping My Systems:
+  - 📖 Designing Data-Intensive Applications (Kleppmann)
+  - 📖 Database Internals (Alex Petrov)
+  - 📖 Enterprise Integration Patterns (Hohpe & Woolf)
+  - 📖 Clean Architecture (Robert C. Martin)
+
+Daily Non-Negotiables:
+  - 🏃 5km Morning Run for Mental Clarity
+  - 🔬 Profiling Slow SQL & Vector Queries
+  - 🛡️ Zero Broken Tests in Main Branch Policy
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- 🐍 CONTRIBUTION SNAKE EATING COMMITS 🐍 -->
+<div align="center">
+
+## 🐍 **THE GRIND: SNAKE EATING MY COMMIT HISTORY** 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peashdasrudra/peashdasrudra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peashdasrudra/peashdasrudra/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/peashdasrudra/peashdasrudra/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+<!-- 💎 QUOTE & ARCHITECTURAL WISDOM 💎 -->
+<div align="center">
+
+## 💎 **ENGINEERING WISDOM & PRINCIPLES**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Deterministic%20mathematics%20before%20generative%20AI.%20Measure%20first,%20optimize%20what%20matters.&author=Peash%20Das%20Rudra&border=true&bg_color=0D1117" width="700">
+
+<br><br>
 
 <table width="100%">
 <tr>
@@ -272,49 +568,49 @@ graph TD
 
 ---
 
+<!-- 🤝 COMMERCIAL OFFERINGS & HIRE ME 🤝 -->
 <div align="center">
 
-## 🐍 **CONTRIBUTION SNAKE EATING MY COMMITS** 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peashdasrudra/peashdasrudra/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peashdasrudra/peashdasrudra/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/peashdasrudra/peashdasrudra/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 **LET'S BUILD SOMETHING EXTRAORDINARY**
-
-Whether you need a **Bespoke HubSpot AI App**, a **Sub-200ms High-Throughput Event Engine**, or a **Fractional Distributed Systems Architect**:
+## 🤝 **COMMERCIAL DEPLOYMENT PACKAGES & PARTNERSHIPS**
+### Deploy DealSense or Hire Fractional Distributed AI Architecture
 
 <br>
 
+| Package | Investment | Timeline | Deliverables & Scope |
+|:---|:---:|:---:|:---|
+| **⚡ Pilot Deal Risk Audit** | **$99 flat fee** | 24–48h | • 1-Click HubSpot OAuth connection<br>• Full 0–100 deterministic risk scoring across 50 deals<br>• Executive PDF briefing + live dashboard leak report<br>• **🛡️ 100% "Find $25K Or It's Free" Guarantee** |
+| **⭐ Full RevOps AI Deployment** | **$1,500 flat fee** | 5 Days | • Complete FastAPI + PostgreSQL + Redis stack deployed<br>• Sub-200ms bi-directional HubSpot webhooks<br>• All 15 RevOps intelligence modules & Monte Carlo forecaster<br>• **100% Full source code & database ownership ($0 monthly fees)** |
+| **🏢 White-Label Agency Fleet** | **$3,500 flat fee** | 10 Days | • Everything in Full Deployment tier<br>• Multi-tenant client fleet dashboard (Unlimited client portals)<br>• 100% Agency white-labeling (your logo, domain & brand)<br>• **Scale to $2,500/mo per client → $300,000 ARR Arbitrage** |
+
+<br><br>
+
 <a href="mailto:peashdasrudra@gmail.com">
-  <img src="https://img.shields.io/badge/DIRECT_EMAIL-peashdasrudra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42"/>
+  <img src="https://img.shields.io/badge/DIRECT_EMAIL-peashdasrudra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="44"/>
 </a>
 <a href="https://dealsense.peash.tech/case-study">
-  <img src="https://img.shields.io/badge/DEPLOYMENT_PACKAGES-$99_TO_$3500-FF5C35?style=for-the-badge&logo=hubspot&logoColor=white" height="42"/>
+  <img src="https://img.shields.io/badge/BOOK_AUDIT-dealsense.peash.tech-FF5C35?style=for-the-badge&logo=hubspot&logoColor=white" height="44"/>
 </a>
 <a href="https://linkedin.com/in/peashdasrudra">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect_With_Peash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect_With_Peash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="44"/>
 </a>
 
 <br><br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💼_CUSTOM_HUBSPOT_AI_APPS-Available-00F7FF?style=for-the-badge&labelColor=0D1117" height="32"/>
-  <img src="https://img.shields.io/badge/🤝_AGENCY_FLEET_LICENSING-Active-00F7FF?style=for-the-badge&labelColor=0D1117" height="32"/>
-  <img src="https://img.shields.io/badge/⚡_HIGH_THROUGHPUT_SYSTEMS-Open_For_Consulting-00F7FF?style=for-the-badge&labelColor=0D1117" height="32"/>
+  <img src="https://img.shields.io/badge/💼_FRACTIONAL_AI_ARCHITECT-Available-00F7FF?style=for-the-badge&labelColor=0D1117" height="34"/>
+  <img src="https://img.shields.io/badge/🤝_AGENCY_FLEET_LICENSING-Active-00F7FF?style=for-the-badge&labelColor=0D1117" height="34"/>
+  <img src="https://img.shields.io/badge/⚡_HIGH_THROUGHPUT_SYSTEMS-Open_For_Consulting-00F7FF?style=for-the-badge&labelColor=0D1117" height="34"/>
 </p>
 
-<br>
+<!-- ☕ BUY ME A COFFEE ☕ -->
+<a href="https://www.buymeacoffee.com/peashdasrudra">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=peashdasrudra&button_colour=00F7FF&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" height="52"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=130&section=footer&fontSize=0" width="100%">
+<br><br>
+
+<!-- 🌊 WAVING FOOTER CAPSULE 🌊 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=140&section=footer&fontSize=0" width="100%">
 
 ### ⚡ *"Talk is cheap. Show me the code."* — **Linus Torvalds**
 
