@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🔥 ABSOLUTE TOP 1% CYBER-TEAL & HUBSPOT FLAME WAVING HEADER BANNER 🔥 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092124,50:124548,100:00F7FF&height=290&section=header&text=PEASH%20DAS%20RUDRA&fontSize=78&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Senior%20AI%20%26amp%3B%20Distributed%20Systems%20Architect%20%7C%20Founder%20%40%20AiXpertLabs&descSize=22&descAlignY=58" width="100%" alt="Peash Das Rudra Executive Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092124,50:124548,100:00F7FF&height=290&section=header&text=PEASH%20DAS%20RUDRA&fontSize=78&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Senior%20AI%20%26amp%3B%20Distributed%20Systems%20Architect%20%7C%20Founder%20%40%20HubAiLabs&descSize=22&descAlignY=58" width="100%" alt="Peash Das Rudra Executive Banner" />
 
 <!-- ⚡ ULTRA DYNAMIC TERMINAL TYPING ANIMATION ⚡ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=500&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=105&lines=%E2%9A%A1+Architecting+Autonomous+AI+Systems+%26+Distributed+Event+Pipelines;%F0%9F%A7%A0+Deterministic+7-Vector+Math+Before+LLMs+%7C+Zero+Hallucinations;%F0%9F%9A%80+Creator+of+DealSense+%E2%80%94+HubSpot-Native+AI+RevOps+Engine;%F0%9F%94%A5+Sub-200ms+Redis+Streams+%7C+PostgreSQL+16+pgvector+%7C+Multi-Tenant+RLS;%F0%9F%8C%9F+Building+High-Ticket+Agency+Fleets+%26+Enterprise+Infrastructure)](https://github.com/peashdasrudra)
