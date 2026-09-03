@@ -43,93 +43,46 @@
 
 ---
 
-<!-- 🚀 ABOUT THE ARCHITECT (SPLIT-HERO WITH ANIMATED DEVELOPER) 🚀 -->
+<!-- 🚀 EXECUTIVE ARCHITECT PROFILE 🚀 -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="34"> **ABOUT THE ARCHITECT** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="34">
+## ⚡ **EXECUTIVE ARCHITECTURAL PROFILE**
+### *Engineering High-Scale CRM Telemetry, Autonomous Agents & Distributed Ingestion*
+
+<br>
+
+| 🏢 **Leadership & Venture** | 📍 **Location** | ⚡ **Core Doctrine** | 🚀 **Flagship Platform** |
+|:---:|:---:|:---:|:---:|
+| **Founder & Chief Architect**<br>`AiXpertLabs` | **Khulna, Bangladesh**<br>`Available Globally (Remote)` | **Deterministic Math Before LLMs**<br>`100% Zero Hallucinations` | **[DealSense Engine](https://dealsense.peash.tech)**<br>`HubSpot-Native RevOps AI` |
+
+<br>
 
 </div>
 
-<img align="right" alt="Developer Coding in Dark Matrix" width="410" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
-### 🚀 **Senior AI & Distributed Systems Architect | Founder @ AiXpertLabs**
-
-```typescript
-const leadArchitect = {
-  name: "Peash Das Rudra",
-  title: "AI & Distributed Systems Architect | Founder @ AiXpertLabs",
-  location: "Khulna, Bangladesh 🌍",
-  doctrine: "Deterministic Mathematics Before Generative AI ⚡",
-  
-  coreEngineeringDisciplines: [
-    "High-Throughput CRM Telemetry & Event Ingestion (Sub-200ms)",
-    "HubSpot Native App & React Canvas Sidebar Cards",
-    "Multi-Tenant PostgreSQL 16 Row-Level Security (RLS)",
-    "Distributed Redis Streaming & Celery Backpressure Queues",
-    "Deterministic 7-Vector Deal Risk Scoring Algorithms",
-    "LangGraph Autonomous Multi-Agent Workflows & Hybrid RAG"
-  ],
-  
-  dailyExecutionLoop: () => {
-    while (inBusiness) {
-      ingest("⚡ Webhook Event Bursts");
-      verifySignature("🔒 HMAC-SHA256");
-      calculate("🧮 Deterministic Math");
-      isolateTenant("🛡️ PostgreSQL RLS");
-      render("🎨 React 18 Canvas Deck");
-      deploy("🚀 Production");
-    }
-  },
-  
-  superpower: "Writing verifiable, test-backed code (48/48 passing) that handles production load without 3 AM panics ☕"
-};
-```
-
-### 💎 **What Drives My Craft**
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 **PASSION & SYSTEM CRAFT**
-```yaml
-Core Competencies:
-  - ⚡ Sub-200ms Asynchronous Ingestion
-  - 🤖 Autonomous Agentic Workflow Systems
-  - 🧩 Native HubSpot Canvas CRM Extensions
-  - 🛡️ Strict Database Row-Level Security
-  - 📊 Monte Carlo Risk Simulations
-
-Engineering Principles:
-  - 🧮 Math Before LLMs (Zero Hallucinations)
-  - ✨ Clean Monorepo Architecture
-  - 🧪 100% Automated Test Passing (48/48)
-  - 🔒 Controlled Autonomy with Approval Gates
-```
+### 🎯 **CORE ENGINEERING DISCIPLINES**
+- ⚡ **Sub-200ms Webhook Streaming**: Ingesting high-frequency CRM events via HMAC-SHA256 authenticated FastAPI gateways into Redis Streams.
+- 🧮 **Deterministic 7-Vector Math**: Mathematical stage velocity, engagement decay, and economic buyer tracking before generative AI nodes receive context.
+- 🛡️ **Cryptographic Multi-Tenancy**: Hardware-enforced PostgreSQL 16 Row-Level Security (RLS) and AES-256-GCM token encryption.
+- 🧩 **HubSpot Native Canvas Extensions**: Embedding custom DealSense intelligence cards directly into native CRM pipelines with 2-way writeback.
+- 🤖 **Autonomous Agentic Workflows**: LangGraph multi-node state graphs with human-in-the-loop approval gates.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔥 **ACTIVE DEPLOYMENTS & INNOVATION**
-```yaml
-Flagship Systems:
-  - 🎯 DealSense (dealsense.peash.tech)
-  - 🏢 Agency Fleet ($300K ARR Arbitrage Hub)
-  - 🧩 Embedded HubSpot CRM Canvas Extension
-  - 📑 1-Click Executive PDF Briefing Exporter
-
-Focus Areas 2025:
-  - 🧠 Hybrid Sparse-Dense Vector Retrieval (RRF)
-  - ⚡ Redis Streams 7.x Cluster Consumer Sharding
-  - 🛡️ Enterprise White-Label Multi-Tenant Fleets
-  - 📈 Predictive Revenue Telemetry & Remediation
-```
+### 💼 **PRODUCTION SYSTEMS & VALUE DELIVERED**
+- 🎯 **[DealSense Platform](https://dealsense.peash.tech)** — Autonomous Revenue Intelligence & Deal Risk Engine
+- 🏢 **[Agency Fleet Hub](https://dealsense.peash.tech/agency)** — White-label multi-tenant partner cockpit scaling to $300K ARR retainers
+- 🧪 **[48/48 Passing Test Suites](https://github.com/peashdasrudra/DealSense)** — 100% verified Pytest automation across all API, worker, and scoring modules
+- 📑 **1-Click Executive PDF Exporter** — Instant board-ready deal risk triage and revenue leakage briefings
+- 🔮 **Monte Carlo Revenue Forecaster** — 10,000 statistical iterations comparing commit vs best case vs AI reality
 
 </td>
 </tr>
 </table>
-
-<br clear="right"/>
 
 <!-- 🔥 EPIC GLOWING LASER SEPARATOR GIF 🔥 -->
 <div align="center">
@@ -530,16 +483,16 @@ Daily Non-Negotiables:
 
 ---
 
-<!-- 🐍 THE GRIND: CONTRIBUTION SNAKE 🐍 -->
+<!-- 📊 THE GRIND: LIVE CONTRIBUTION TELEMETRY 📊 -->
 <div align="center">
 
-## 🐍 **THE GRIND: SNAKE EATING MY COMMIT HISTORY** 🐍
+## 📊 **THE GRIND: 2025–2026 CONTRIBUTION TELEMETRY**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peashdasrudra/peashdasrudra/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peashdasrudra/peashdasrudra/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/peashdasrudra/peashdasrudra/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<br>
+
+<a href="https://github.com/peashdasrudra">
+  <img width="100%" src="https://ghchart.rshah.org/00F7FF/peashdasrudra" alt="Peash Das Rudra Real-Time GitHub Contributions Graph" />
+</a>
 
 </div>
 
